@@ -1,4 +1,4 @@
-👋 Hello! I'm [Harshil Agrawal
+👋 Hello! I'm Harshil Agrawal
 Welcome to my GitHub profile! I'm a fresher in the world of coding, passionate about learning and creating projects that challenge me and help me grow as a developer. I love exploring new technologies and applying them in creative ways.
 
 🚀 About Me
