@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @FL4MEGOD-26
-- 👀 I’m interested in coding, reading and writing...
-- 🌱 I’m currently learning Python language...
-- 💞️ I’m looking to collaborate on hackathons and other related contests...
-- 📫 How to reach me 
-- ⚡ Fun fact: I'm the guy who loves to talk a lot...
+👋 Hello! I'm [Harshil Agrawal
+Welcome to my GitHub profile! I'm a fresher in the world of coding, passionate about learning and creating projects that challenge me and help me grow as a developer. I love exploring new technologies and applying them in creative ways.
 
-<!---
-FL4MEGOD-26/FL4MEGOD-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+🎓 I'm currently a student or recent graduate, excited to dive into real-world projects and expand my skills.
+🌱 I’m currently learning Python and Web Development
+💡 I'm interested in Web Dev and Cyber Security
+📫 How to reach me: 
+🔧 Technologies & Tools
+
+🌱 Projects and Contributions
+I believe in learning by doing, so here’s what you can find on my profile:
+
+Practice Projects: Small projects showcasing my progress as I learn different skills.
+Collaborations: Projects where I’ve worked with others, building teamwork skills.
+Open Source Contributions: I’m exploring contributing to open source. Suggestions are welcome!
+
+🌍 Connect with Me
+LinkedIn: 
+Twitter: 
+Email: 
+Feel free to ask questions, give feedback, or reach out if you want to collaborate. Thanks for stopping by! 😊
